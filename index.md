@@ -14,7 +14,11 @@ This git page is used to link directly to a collection of my published papers, w
 1. [UE4 Running Simulator](https://mpspencer93.github.io/mpspencer93/Papers/Report_UE4_Running_Simulator.pdf)
 
 ### Graduate Projects
-1. [ADL/FAST Alpha 21264 Branch Predictor](https://mpspencer93.github.io/mpspencer93/Papers/ADL_FAST_Alpha_21264_Branch_Predictor_Project.pdf)
+1. [Filter Based Matching](https://mpspencer93.github.io/mpspencer93/Papers/Filter_Based_Matching_Project.pdf)
+2. [ADL/FAST Alpha 21264 Branch Predictor](https://mpspencer93.github.io/mpspencer93/Papers/ADL_FAST_Alpha_21264_Branch_Predictor_Project.pdf)
+
+### Undergarduate Projects
+1. [Enterprise Arcade Cabinet](https://mpspencer93.github.io/mpspencer93/Papers/Enterprise_Arcade_Cabinet_Reduced.pdf)
 
 ### Contact
 mpspence@mtu.edu <br/>
