@@ -13,7 +13,10 @@ This git page is used to link directly to a collection of my published papers, w
 ### Graduate Project Reports
 1. [UE4 Running Simulator](https://mpspencer93.github.io/mpspencer93/Papers/Report_UE4_Running_Simulator.pdf)
 2. [Filter Based Matching](https://mpspencer93.github.io/mpspencer93/Papers/Filter_Based_Matching_Project.pdf)
-3. [ADL/FAST Alpha 21264 Branch Predictor](https://mpspencer93.github.io/mpspencer93/Papers/ADL_FAST_Alpha_21264_Branch_Predictor_Project.pdf)
+3. [Pattern Recognition](https://mpspencer93.github.io/mpspencer93/Papers/Pattern_Recognition.pdf)
+4. [Point Cloud Processing](https://mpspencer93.github.io/mpspencer93/Papers/Point_Cloud_Processing.pdf)
+5. [Infrared Matlab Segmentation](https://mpspencer93.github.io/mpspencer93/Papers/Infrared_MATLAB_Segmentation.pdf)
+6. [ADL/FAST Alpha 21264 Branch Predictor](https://mpspencer93.github.io/mpspencer93/Papers/ADL_FAST_Alpha_21264_Branch_Predictor_Project.pdf)
 
 ### Undergarduate Projects
 1. [Enterprise Arcade Cabinet](https://mpspencer93.github.io/mpspencer93/Papers/Enterprise_Arcade_Cabinet_Reduced.pdf)
