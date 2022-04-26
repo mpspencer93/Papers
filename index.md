@@ -17,4 +17,5 @@ This git page is used to link directly to a collection of my published papers, w
 mpspence@mtu.edu <br/>
 Keweenaw Research Center <br/>
 23620 Airpark Blvd, Calumet, MI 49913 <br/>
-(906) 487-2750 Ext: 73439 <br/>
+(906) 487-2750 <br/>
+Ext: 73439 <br/>
