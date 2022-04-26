@@ -1,6 +1,6 @@
 ## Matthew Paul Spencer
 
-This git page is used to link directly to a collection of my published papers, white papers, ongoing works, and past graduate university project reports. My most recent resume is also included for download towards the bottom. <br/>
+This git page is used to link directly to a collection of my published papers, white papers, ongoing works, and past graduate university project reports. My most recent resume is also included for download at the bottom of the page. <br/>
 
 ### Published Papers
 1. [Off Road Autonomous Vehicle Modeling and Repeatability Using Real Telemetry via Simulation (SPIE DCS 2022)](https://mpspencer93.github.io/Papers/DCS_Off_Road_Autonomous_Vehicle_Modeling_and_Repeatability_Using_Real_World_Teletmetry.pdf)<br/>
