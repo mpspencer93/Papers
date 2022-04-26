@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Matthew Paul Spencer Git Repository
 
-You can use the [editor on GitHub](https://github.com/mpspencer93/Papers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This git page is used to link directly to a collection of my published papers, white papers, ongoing works, and past graduate university project reports. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Published Papers
+1. [Off Road Autonomous Vehicle Modeling and Repeatability using Real Telemetry via Simulation (SPIE DCS)](https://github.com/mpspencer93/Papers/DCS_Off_Road_Autonomous_Vehicle_Modeling_and_Repeatability_Using_Real_World_Teletmetry.pdf)
+2. [Off Road Autonomous Vehicle Modeling and Repeatability using Real Telemetry via Simulation (MS Thesis)](https://github.com/mpspencer93/Papers/Thesis_Off_Road_Autonomous_Vehicle_Modeling_and_Repeatability_Using_Real_World_Teletmetry.pdf)
 
-### Markdown
+### White Papers
+1. [Nash Equilibrium Applied to Autonomous Vehicle Intersections](https://github.com/mpspencer93/Papers/Nash_Equilibrium_Applied_to_Autonomous_Traffic_Intersections.pdf)
+2. [Shallow Neural Network Control for Off Road Autonomous Vehicles via Simulation](https://github.com/mpspencer93/Papers/Shallow_Neural_Network_Control_for_Off_Road_Autonomous_Vehicles_via_Simulation.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Graduate Reports
+1. [UE4 Running Simulator](https://github.com/mpspencer93/Papers/Report_UE4_Running_Simulator.pdf)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mpspencer93/Papers/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+mpspence@mtu.edu
+Keweenaw Research Center
+23620 Airpark Blvd, Calumet, MI 49913
+(906) 487-2750 Ext: 73439
