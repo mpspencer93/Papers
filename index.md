@@ -7,7 +7,7 @@ This git page is used to link directly to a collection of my published papers, w
 2. [Off Road Autonomous Vehicle Modeling and Repeatability Using Real Telemetry via Simulation (MS Thesis)](https://mpspencer93.github.io/Papers/Thesis_Off_Road_Autonomous_Vehicle_Modeling_and_Repeatability_Using_Real_World_Teletmetery.pdf)<br/>
 
 ### White Papers
-1. [Nash Equilibrium Applied to Autonomous Vehicle Intersections](https://mpspencer93.github.io/mpspencer93/Papers/Nash_Equilibrium_Applied_to_Autonomous_Traffic_Intersections.pdf)<br/>
+1. [Nash Equilibrium Applied to Autonomous Vehicle Intersections](https://mpspencer93.github.io/mpspencer93/Paperz/Nash_Equilibrium_Applied_to_Autonomous_Traffic_Intersections.pdf)<br/>
 2. [Shallow Neural Network Control for Off Road Autonomous Vehicles via Simulation](https://mpspencer93.github.io/mpspencer93/Papers/Shallow_Neural_Network_Control_for_Off_Road_Autonomous_Vehicles_via_Simulation.pdf)<br/>
 
 ### Graduate Project Reports
