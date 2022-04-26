@@ -19,7 +19,7 @@ This git page is used to link directly to a collection of my published papers, w
 6. [Autonomous Vehicle Parking](https://mpspencer93.github.io/Papers/Autonomous_Vehicle_Parking.pdf)
 7. [ADL/FAST Alpha 21264 Branch Predictor](https://mpspencer93.github.io/Papers/ADL_FAST_Alpha_21264_Branch_Predictor_Project.pdf)
 
-### Undergarduate Projects
+### Undergraduate Projects
 1. [Enterprise Arcade Cabinet](https://mpspencer93.github.io/Papers/Enterprise_Arcade_Cabinet_Reduced.pdf)
 
 ### Contact
