@@ -1,4 +1,4 @@
-## Matthew Paul Spencer Git Repository
+## Matthew Paul Spencer <br/> Git Repository
 
 This git page is used to link directly to a collection of my published papers, white papers, ongoing works, and past graduate university project reports. <br/>
 
