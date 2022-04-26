@@ -16,7 +16,8 @@ This git page is used to link directly to a collection of my published papers, w
 3. [Pattern Recognition](https://mpspencer93.github.io/mpspencer93/Papers/Pattern_Recognition.pdf)
 4. [Point Cloud Processing](https://mpspencer93.github.io/mpspencer93/Papers/Point_Cloud_Processing.pdf)
 5. [Infrared Matlab Segmentation](https://mpspencer93.github.io/mpspencer93/Papers/Infrared_MATLAB_Segmentation.pdf)
-6. [ADL/FAST Alpha 21264 Branch Predictor](https://mpspencer93.github.io/mpspencer93/Papers/ADL_FAST_Alpha_21264_Branch_Predictor_Project.pdf)
+6. [Autonomous Vehicle Parking](https://mpspencer93.github.io/mpspencer93/Papers/Autonomous_Vehicle_Parking.pdf)
+7. [ADL/FAST Alpha 21264 Branch Predictor](https://mpspencer93.github.io/mpspencer93/Papers/ADL_FAST_Alpha_21264_Branch_Predictor_Project.pdf)
 
 ### Undergarduate Projects
 1. [Enterprise Arcade Cabinet](https://mpspencer93.github.io/mpspencer93/Papers/Enterprise_Arcade_Cabinet_Reduced.pdf)
