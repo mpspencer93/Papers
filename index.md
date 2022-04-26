@@ -18,6 +18,7 @@ This git page is used to link directly to a collection of my published papers, w
 5. [Infrared Matlab Segmentation](https://mpspencer93.github.io/Papers/Infrared_MATLAB_Segmentation.pdf)
 6. [Autonomous Vehicle Parking](https://mpspencer93.github.io/Papers/Autonomous_Vehicle_Parking.pdf)
 7. [ADL/FAST Alpha 21264 Branch Predictor](https://mpspencer93.github.io/Papers/ADL_FAST_Alpha_21264_Branch_Predictor_Project.pdf)
+8. [CAN Communication Utilizing OBDII on a Hybrid Electric Vehicle](https://mpspencer93.github.io/Papers/CAN_Communication_Utilizing_OBDII_on_a_Hybrid_Electric_Vehicle.pdf)
 
 ### Undergraduate Projects
 1. [Enterprise Arcade Cabinet](https://mpspencer93.github.io/Papers/Enterprise_Arcade_Cabinet_Reduced.pdf)
