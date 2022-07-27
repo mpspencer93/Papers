@@ -27,8 +27,5 @@ This git page is used to link directly to a collection of my published papers, w
 [Spring 2022](https://mpspencer93.github.io/Papers/Matthew_Spencer_Resume_Spring_2022.pdf)
 
 ### Contact
-mpspence@mtu.edu <br/>
-Keweenaw Research Center <br/>
-23620 Airpark Blvd, Calumet, MI 49913 <br/>
-(906) 487-2750 <br/>
-Ext: 73439 <br/>
+maspencer@microsoft.com <br/>
+(906) 231-7965 <br/>
