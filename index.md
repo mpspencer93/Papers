@@ -1,6 +1,6 @@
 ## Matthew Paul Spencer
 
-This git page is used to link directly to a collection of my published papers, white papers, ongoing works, and past graduate university project reports. My most recent resume is also included for download at the bottom of the page. <br/>
+This git page is used to link directly to a collection of my published papers, white papers, ongoing works, and past graduate university project reports. <br/>
 
 ### Published Papers
 1. [Off Road Autonomous Vehicle Modeling and Repeatability Using Real Telemetry via Simulation (MS Thesis)](https://digitalcommons.mtu.edu/etdr/1398/)<br/>
