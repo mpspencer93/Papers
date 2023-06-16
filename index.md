@@ -23,9 +23,6 @@ This git page is used to link directly to a collection of my published papers, w
 ### Undergraduate Projects
 1. [Enterprise Arcade Cabinet](https://mpspencer93.github.io/Papers/Enterprise_Arcade_Cabinet_Reduced.pdf)
 
-### Resume
-[Spring 2022](https://mpspencer93.github.io/Papers/Matthew_Spencer_Resume_Spring_2022.pdf)
-
 ### Contact
 maspencer@microsoft.com <br/>
 (906) 231-7965 <br/>
