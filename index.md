@@ -10,6 +10,10 @@ This git page is used to link directly to a collection of my published papers, w
 1. [Nash Equilibrium Applied to Autonomous Traffic Intersections](https://mpspencer93.github.io/Papers/Nash_Equilibrium_Applied_to_Autonomous_Traffic_Intersections.pdf)<br/>
 2. [Shallow Neural Network Control for Off Road Autonomous Vehicles via Simulation](https://mpspencer93.github.io/Papers/Shallow_Neural_Network_Control_for_Off_Road_Autonomous_Vehicles_via_Simulation.pdf)<br/>
 
+### Indie Game Projects
+1. [Super Battle Polycars](https://store.steampowered.com/app/2844320/SUPER_BATTLE_POLYCARS/)<br/>
+2. [Exouds of Descent](https://store.steampowered.com/app/2320740/Exodus_of_Descent/)<br/>
+
 ### Graduate Project Reports
 1. [UE4 Running Simulator](https://mpspencer93.github.io/Papers/Report_UE4_Running_Simulator.pdf)
 2. [Filter Based Matching](https://mpspencer93.github.io/Papers/Filter_Based_Matching_Project.pdf)
